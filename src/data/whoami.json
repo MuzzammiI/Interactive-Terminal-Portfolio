@@ -1,0 +1,260 @@
+{
+  "personalInfo": {
+    "name": "MD Mozammil",
+    "title": "Computer Science Engineering Student & Full Stack Developer | Blockchain Enthusiast ",
+    "location": "Greater Noida, India",
+    "phone": "+91 6202591456",
+    "email": "mdmozammil112002@gmail.com",
+    "profileImage": "../assets/whoiam1.jpg",
+    "bio": "Passionate about Full Stack Development & Blockchain Technology"
+  },
+  "strengths": [
+    "Quick Learner",
+    "Self-Motivated", 
+    "Detail-Oriented",
+    "Team Player"
+  ],
+  "interests": [
+    "Exploring blockchain innovations",
+    "Contributing to open-source projects", 
+    "Learning about emerging Web3 and AI trends"
+  ],
+  "skills": {
+    "programmingLanguages": {
+      "C++": 85,
+      "JavaScript": 80,
+      "Node.js": 75,
+      "Java Core": 70
+    },
+    "webDevelopment": {
+      "HTML/CSS": 90,
+      "React.js": 75,
+      "API Development": 70
+    },
+    "toolsFrameworks": [
+      "n8n automation tools",
+      "Tailwind CSS",
+      "Bootstrap",
+      "VS Code",
+      "Postman",
+      "Figma",
+      "Visual Studio Code",
+      "Google Cloud Platform",
+      "React.js",
+      "Responsive Design",
+      "Real-time Monitoring",
+      "Data Aggregation",
+      "API Development",
+      "Data Visualization",
+      "Search Engine Optimization",
+      "Performance Optimization",
+      "Agile Methodology",
+      "Continuous Integration/Deployment",
+      "Version Control (Git)",
+      "Documentation",
+      "Testing",
+      "Security Measures",
+      "Accessibility Features",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "React Query",
+      "Selenium (Learning)"
+    ],
+    "blockchain": [
+      "Smart Contracts (Learning)",
+      "DApps",
+      "Web3 Integration (Learning)"
+    ],
+    "coreConcepts": [
+      "Data Structures",
+      "Algorithms", 
+      "OOP",
+      "Agile Methodology"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Dynamic Personal Portfolio",
+      "description": "A modern, interactive terminal-based portfolio built with React, Vite, and Tailwind CSS. Experience a unique command-line interface that showcases skills, projects, experience, and achievements in an engaging way.",
+      "technologies": ["HTML", "CSS", "JavaScript","React", "Tailwind CSS", "Vite","Responsive Design"],
+      "features": [
+        "Command-Line Interface**: Type commands just like in a real terminal",
+        "Command History**: Navigate through previous commands with arrow keys",
+        " Auto-completion**: Tab completion for available commands",
+        "Real-time Feedback**: Instant command execution and output"
+      ],
+      "links": {
+        "live": "https://muzzucmd.run.place",
+        "github": "https://github.com/MuzzammiI/Interactive-Terminal-Portfolio"
+      }
+    },
+    {
+      "name": "Web3 & Blockchain Aggregator",
+      "description": "A comprehensive platform that unifies and presents data from various blockchain networks in an accessible and user-friendly way, featuring advanced caching and web scraping capabilities.",
+      "technologies": ["Node.js", "Web3", "Blockchain APIs", "Web Scraping", "Caching","n8n automation tools", "MongoDB", "Express.js", "Google Cloud Platform", "React.js", "Tailwind CSS", "Responsive Design", "Real-time Monitoring", "Data Aggregation", "API Development", "Data Visualization", "Search Engine Optimization", "Performance Optimization", "Agile Methodology", "Continuous Integration/Deployment", "Version Control (Git)", "Documentation", "Testing", "Security Measures", "Accessibility Features"],
+      "features": [
+        "Multi-blockchain data aggregation",
+        "Caching mechanisms for improved performance",
+        "Web scraping for additional data collection",
+        "User-friendly data presentation",
+        "Real-time blockchain network monitoring",
+        "Search functionality for easy data retrieval",
+        "Responsive design for mobile and desktop compatibility",
+        "SEO optimization for better visibility",
+        "Performance optimization for fast loading times",
+        "Agile development practices for iterative improvements",
+        "Continuous integration and deployment for streamlined updates",
+        "Version control system for code management",
+        "Comprehensive documentation for clarity and understanding",
+        "Thorough testing procedures to ensure reliability",
+        "Robust security measures against potential threats",
+        "Accessibility features for inclusivity",
+        "Data visualization tools for better insights",
+        "User authentication and authorization",
+        "API development for external integrations"
+      ],
+      "links": {
+        "live": "#",
+        "github": "#"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "position": "Web Development Intern",
+      "company": "Uptoskills",
+      "location": "New Delhi",
+      "duration": "Aug 2025 - Nov 2025",
+      "responsibilities": [
+        "Contributed to front-end and back-end development using JavaScript and Node.js",
+        "Collaborated with the team to design and implement responsive web pages",
+        "Enhanced website performance, resulting in a 15% improvement in load times",
+        "Worked in an agile development environment"
+      ],
+      "technologies": ["JavaScript", "Node.js", "Responsive Design", "Performance Optimization","React.js"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field": "Computer Science and Engineering", 
+      "institution": "Dronacharya Group of Institutions",
+      "location": "Greater Noida",
+      "duration": "2021 - 2025",
+      "grade": "CGPA: 6.8"
+    },
+    {
+      "degree": "12th Grade (Science)",
+      "field": "Science",
+      "institution": "Sogra College",
+      "location": "Biharsharif, Nalanda", 
+      "duration": "2019",
+      "grade": "Percentage: 64%"
+    },
+    {
+      "degree": "10th Grade",
+      "field": "General",
+      "institution": "Sri Baleshwar Singh H/S Patasang",
+      "location": "Nalanda, Bihar",
+      "duration": "2017", 
+      "grade": "Percentage: 80%"
+    }
+  ],
+  "achievements": [
+    {
+      "icon": "💻",
+      "title": "LeetCode Problem Solver",
+      "description": "Completed 300+ coding questions on LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.",
+      "tags": ["300+ Problems Solved", "Data Structures & Algorithms"]
+    },
+    {
+      "icon": "🎓",
+      "title": "Research Publication",
+      "description": "Successfully published research paper on Web3 & Blockchain Aggregator in IRJET, contributing to academic knowledge in blockchain technology.",
+      "tags": ["IRJET Publication", "Blockchain Research"]
+    },
+    {
+      "icon": "⚡",
+      "title": "Performance Optimization",
+      "description": "Achieved 15% improvement in website load times during internship at Uptoskills through effective optimization techniques.",
+      "tags": ["15% Performance Boost", "Web Optimization"]
+    }
+  ],
+  "research": [
+    {
+      "title": "Web3 & Blockchain Aggregator: Bridging Decentralized Systems",
+      "journal": "International Research Journal of Engineering and Technology (IRJET)",
+      "abstract": "The paper explores innovative approaches to integrate multiple blockchain systems under a unified platform. It highlights practical applications and scalability solutions for decentralized technologies, addressing the current fragmentation in the blockchain ecosystem.",
+      "contributions": [
+        "Innovative integration approaches for multiple blockchain systems",
+        "Practical applications in decentralized technology",
+        "Scalability solutions for blockchain networks",
+        "Framework for unified blockchain platform development",
+        "Addressing fragmentation in the blockchain ecosystem",
+        "Enhancing interoperability between different blockchain networks",
+        "Proposing a comprehensive architecture for blockchain aggregation",
+        "Exploring real-world use cases for blockchain integration",
+        "Analyzing performance metrics of the proposed solutions",
+        "Discussing security implications and measures",
+        "Evaluating the impact on user experience and accessibility",
+        "Providing guidelines for future research in blockchain aggregation",
+        "Suggesting potential industry applications and collaborations",
+        "Highlighting the importance of community engagement in blockchain projects",
+        "Discussing the role of open-source contributions in blockchain development",
+        "Exploring the future of blockchain technology in various sectors"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "type": "Email",
+      "value": "mdmozammil112002@gmail.com",
+      "icon": "📧",
+      "link": "mailto:mdmozammil112002@gmail.com"
+    },
+    {
+      "type": "Phone", 
+      "value": "+91 6202591456",
+      "icon": "📱",
+      "link": "tel:+916202591456"
+    },
+    {
+      "type": "Location",
+      "value": "Greater Noida, India",
+      "icon": "📍",
+      "link": null
+    },
+    {
+      "type": "LinkedIn",
+      "value": "Connect with me",
+      "icon": "💼", 
+      "link": "https://www.linkedin.com/in/md-mozammil-2a6030159/"
+    },
+    {
+      "type": "GitHub",
+      "value": "View my repositories",
+      "icon": "🐙",
+      "link": "https://github.com/MuzzammiI"
+    }
+  ],
+  "commands": {
+    "help": "Show all available commands",
+    "about": "Learn more about me and my background",
+    "skills": "View my technical skills and expertise",
+    "projects": "Explore my featured projects and work",
+    "experience": "Check out my professional experience",
+    "education": "View my educational background",
+    "achievements": "See my achievements and milestones",
+    "research": "Read about my research publications",
+    "contact": "Get my contact information",
+    "clear": "Clear the terminal screen",
+    "whoami": "Display current user information",
+    "pwd": "Print working directory",
+    "date": "Display current date and time",
+    "ls": "List directory contents",
+    "cat": "Display file contents (usage: cat <filename>)",
+    "echo": "Display a line of text (usage: echo <text>)",
+    "history": "Show command history"
+  }
+}

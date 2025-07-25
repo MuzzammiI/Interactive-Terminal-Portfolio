@@ -1,0 +1,30 @@
+# Git Commands to Upload Project
+
+# Navigate to your project directory
+cd "c:\Users\HP\OneDrive\Desktop\FinalYearProjectsDetails\whoIam\terminal-portfolio"
+
+# Initialize git repository
+git init
+
+# Add all files to staging
+git add .
+
+# Commit all files
+git commit -m "Initial commit: Interactive Terminal Portfolio with React, Vite, and Tailwind CSS"
+
+# Set main branch
+git branch -M main
+
+# Add remote origin
+git remote add origin https://github.com/MuzzammiI/Interactive-Terminal-Portfolio.git
+
+# Push to GitHub
+git push -u origin main
+
+# Alternative: If you want to add README first (as in your original commands)
+echo "# Interactive-Terminal-Portfolio" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MuzzammiI/Interactive-Terminal-Portfolio.git
+git push -u origin main
