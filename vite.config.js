@@ -1,11 +1,11 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Interactive-Terminal-Portfolio/',
-   build: {
-    outDir: 'dist', // This is the default, but good to confirm
+  // This is the CRITICAL line for GitHub Pages Project Pages
+  base: '/Interactive-Terminal-Portfolio/', // <-- Make sure this matches your repo name exactly
+  build: {
+    outDir: 'dist', // This is the default output directory
   },
-})
+});
